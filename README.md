@@ -20,8 +20,7 @@ Here are some of the projects I've been working on:
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/roswaldo-flores-547716161/)
-- Email: [Your Email](mailto:your-email@example.com)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- [Email](iamrsf0795@gmail.com)
 
 ## 💼 My Resume
 
