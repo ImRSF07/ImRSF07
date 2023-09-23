@@ -8,12 +8,14 @@ I'm a Web Developer. Welcome to my GitHub profile! Here, you'll find some of my 
 - 🌐 [Technology/Tool 2]
 - ⚙️ [Technology/Tool 3]
 - 🛠️ [Technology/Tool 4]
+- 
 
 ## 🚀 Projects
 
 Here are some of the projects I've been working on:
 
-- 🌟 [Project 1](link-to-project-1): Brief description.
+- 🌟 [Portfolio Website](link-to-project-1): My personal portfolio website
+- 🧮 [MDAS Calculator] (https://github.com/ImRSF07/react-typescript-mdas-calculator): An MDAS Calculator made using React & TypeScript!
 
 ## 📫 Contact Me
 
@@ -31,8 +33,6 @@ You can check out my [resume](link-to-resume) for more details about my work exp
 
 ## 🌐 Other Links
 
-- [Portfolio Website](link-to-portfolio)
-- [Blog](link-to-blog)
-- [Dev.to](https://dev.to/your-devto-profile)
+- [Portfolio Website](link-to-portfolio) - Ongoing
 
 Thanks for visiting! 😄
